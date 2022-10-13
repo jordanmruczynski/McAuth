@@ -1,0 +1,5 @@
+name: McAuthBungee
+version: '${project.version}'
+main: pl.jordii.mcauth.bungee.McAuthBungee
+authors: [ Jordan "Jordii" Mruczynski ]
+description: BungeeCord side plugin for the mc auth system

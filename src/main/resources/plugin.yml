@@ -1,0 +1,8 @@
+name: McAuthSpigot
+version: '${project.version}'
+main: pl.jordii.mcauth.spigot.McAuthSpigot
+authors: [ Jordan "Jordii" Mruczynski ]
+description: An authentication system for premium and cracked accounts
+commands:
+  register:
+  login:
